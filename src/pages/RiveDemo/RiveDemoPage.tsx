@@ -42,7 +42,6 @@ export function RiveDemoPage() {
         // filename={"/rive/myrivefile.rive"}
         stateMachineName="State Machine 1"
       />
-      <h1>Hello!</h1>
       {/*
       <div className="actions">
         <PrimaryButton title="Play" onClick={onPrimaryButtonClick} />

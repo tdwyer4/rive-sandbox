@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rive-sandbox/static/css/main.7b3f7e09.css",
+    "main.js": "/rive-sandbox/static/js/main.94bb70ce.js",
+    "static/js/453.3f2cc35a.chunk.js": "/rive-sandbox/static/js/453.3f2cc35a.chunk.js",
+    "index.html": "/rive-sandbox/index.html",
+    "main.7b3f7e09.css.map": "/rive-sandbox/static/css/main.7b3f7e09.css.map",
+    "main.94bb70ce.js.map": "/rive-sandbox/static/js/main.94bb70ce.js.map",
+    "453.3f2cc35a.chunk.js.map": "/rive-sandbox/static/js/453.3f2cc35a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3f7e09.css",
+    "static/js/main.94bb70ce.js"
+  ]
+}

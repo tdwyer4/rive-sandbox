@@ -1,0 +1,31 @@
+.riveSandbox {
+    background-color: rgb(255, 255, 255)(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 20px
+}
+
+.riveSandbox > .actions {
+
+    flex-grow: 1;
+    flex-direction: row;
+
+    display: flex;
+    padding: 10px 40px;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.riveSandbox > .actions > button {
+    flex-grow: 1;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.title-container{
+    background-color: rgb(219, 219, 219);
+}

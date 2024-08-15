@@ -1,8 +1,8 @@
 import "./App.css";
-import { RiveDemoPage } from "./pages/RiveDemo/RiveDemoPage";
+import { RiveSandbox } from "./pages/RiveSandbox";
 
 function App() {
-  return <RiveDemoPage />;
+  return <RiveSandbox />;
 }
 
 export default App;

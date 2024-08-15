@@ -1,0 +1,18 @@
+.root {
+    background-color: darkblue;
+    color: white;
+}
+.root:hover {
+    background-color: green;
+    color: white;
+}
+
+.root.ghost {
+    background-color: transparent;
+    border: solid 1px darkblue;
+    color: black;
+}
+.root:hover {
+    background-color: gray;
+    color: white;
+}

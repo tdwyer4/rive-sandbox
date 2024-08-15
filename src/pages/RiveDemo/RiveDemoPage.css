@@ -1,0 +1,23 @@
+.riveDemoPage {
+    background-color: rgb(255, 255, 255)(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 40px
+}
+
+.riveDemoPage > .actions {
+
+    flex-grow: 1;
+    flex-direction: row;
+
+    display: flex;
+    padding: 10px 40px;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.riveDemoPage > .actions > button {
+    flex-grow: 1;
+}

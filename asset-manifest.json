@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rive-sandbox/static/css/main.589f0c2c.css",
-    "main.js": "/rive-sandbox/static/js/main.f2ce28e2.js",
-    "static/js/453.3f2cc35a.chunk.js": "/rive-sandbox/static/js/453.3f2cc35a.chunk.js",
+    "main.css": "/rive-sandbox/static/css/main.959db261.css",
+    "main.js": "/rive-sandbox/static/js/main.54c74e54.js",
+    "static/js/453.083735e2.chunk.js": "/rive-sandbox/static/js/453.083735e2.chunk.js",
     "index.html": "/rive-sandbox/index.html",
-    "main.589f0c2c.css.map": "/rive-sandbox/static/css/main.589f0c2c.css.map",
-    "main.f2ce28e2.js.map": "/rive-sandbox/static/js/main.f2ce28e2.js.map",
-    "453.3f2cc35a.chunk.js.map": "/rive-sandbox/static/js/453.3f2cc35a.chunk.js.map"
+    "main.959db261.css.map": "/rive-sandbox/static/css/main.959db261.css.map",
+    "main.54c74e54.js.map": "/rive-sandbox/static/js/main.54c74e54.js.map",
+    "453.083735e2.chunk.js.map": "/rive-sandbox/static/js/453.083735e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.589f0c2c.css",
-    "static/js/main.f2ce28e2.js"
+    "static/css/main.959db261.css",
+    "static/js/main.54c74e54.js"
   ]
 }

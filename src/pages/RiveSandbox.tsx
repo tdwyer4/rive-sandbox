@@ -10,7 +10,7 @@ export function RiveSandbox() {
       <div>
         <EHRive
           // filename={"assets/rive/myrivefile.riv"}
-          filename={"assets/rive/ebi-test-2.riv"}
+          filename={"assets/rive/ebi-test-3.riv"}
           stateMachineName="State Machine 1"
         />
       </div>

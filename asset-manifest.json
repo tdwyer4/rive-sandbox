@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rive-sandbox/static/css/main.d023ca92.css",
-    "main.js": "/rive-sandbox/static/js/main.f6c689d4.js",
+    "main.css": "/rive-sandbox/static/css/main.443ecced.css",
+    "main.js": "/rive-sandbox/static/js/main.324f336b.js",
     "static/js/453.083735e2.chunk.js": "/rive-sandbox/static/js/453.083735e2.chunk.js",
     "index.html": "/rive-sandbox/index.html",
-    "main.d023ca92.css.map": "/rive-sandbox/static/css/main.d023ca92.css.map",
-    "main.f6c689d4.js.map": "/rive-sandbox/static/js/main.f6c689d4.js.map",
+    "main.443ecced.css.map": "/rive-sandbox/static/css/main.443ecced.css.map",
+    "main.324f336b.js.map": "/rive-sandbox/static/js/main.324f336b.js.map",
     "453.083735e2.chunk.js.map": "/rive-sandbox/static/js/453.083735e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d023ca92.css",
-    "static/js/main.f6c689d4.js"
+    "static/css/main.443ecced.css",
+    "static/js/main.324f336b.js"
   ]
 }

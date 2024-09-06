@@ -3,7 +3,7 @@ import styles from "./RiveSandbox.module.scss";
 
 export function RiveSandbox() {
   return (
-    <>
+    <div className={styles.riveContainer}>
       <div className={styles.riveSandbox}>
         <h1>Early Bird Pricing</h1>
       </div>
@@ -14,6 +14,6 @@ export function RiveSandbox() {
           stateMachineName="State Machine 1"
         />
       </div>
-    </>
+    </div>
   );
 }

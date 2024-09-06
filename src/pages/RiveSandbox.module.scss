@@ -1,8 +1,13 @@
+.riveContainer {
+    background-color: rgb(51, 49, 55);
+}
+
 .riveSandbox {
-    background-color: rgb(255, 255, 255)(255, 255, 255);
     display: flex;
     flex-direction: column;
     gap: 20px;
+    height: 100%;
+    width: 100%;
 
     h1 {
         text-align: center;
